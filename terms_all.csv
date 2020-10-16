@@ -1,0 +1,7 @@
+"(objID)","(objType)","http://www.w3.org/2000/01/rdf-schema#label","http://www.w3.org/2004/02/skos/core#prefLabel"
+"http://hetnoordbrabantsmuseum.nl/data/term/15918","http://www.cidoc-crm.org/cidoc-crm/E55_Type",,"figuurstuk"
+"http://hetnoordbrabantsmuseum.nl/data/term/2584","http://www.cidoc-crm.org/cidoc-crm/E55_Type",,"stilleven"
+"http://hetnoordbrabantsmuseum.nl/data/term/3839","http://www.cidoc-crm.org/cidoc-crm/E55_Type",,"schilderij"
+"http://hetnoordbrabantsmuseum.nl/data/term/3897","http://www.cidoc-crm.org/cidoc-crm/E55_Type",,"tekening"
+"http://hetnoordbrabantsmuseum.nl/data/term/5107","http://www.cidoc-crm.org/cidoc-crm/E55_Type",,"aquarel"
+"http://hetnoordbrabantsmuseum.nl/data/place/719","http://www.cidoc-crm.org/cidoc-crm/E53_Place","Nuenen",
