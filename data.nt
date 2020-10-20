@@ -133,7 +133,7 @@
 <https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F3839.tiff> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://hetnoordbrabantsmuseum.nl/data/artwork/11577> .
 <https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F3839.tiff> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://hetnoordbrabantsmuseum.nl/data/artwork/17827> .
 <https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F3839.tiff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> .
-<https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F3839.tiff> <http://purl.org/dc/terms/conformsTo> <http://iiif.to/api/image> .
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F3839.tiff> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image> .
 <https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F3839.tiff> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302> .
 <https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F3839.tiff> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://hetnoordbrabantsmuseum.nl/data/artwork/17808> .
 <_:title/@d430529e-df7d-44b2-984b-b7ea1c8314ae-0-33> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "New Complete Van Gogh : Paintings, Drawings, Sketches" .
@@ -158,7 +158,7 @@
 <_:pages/@d430529e-df7d-44b2-984b-b7ea1c8314ae-0-63> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "p. 48" .
 <_:pages/@d430529e-df7d-44b2-984b-b7ea1c8314ae-0-63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
 <_:pages/@d430529e-df7d-44b2-984b-b7ea1c8314ae-0-63> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440> .
-<http://iiif.to/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
+<http://iiif.io/api/image> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Resource> .
 <http://hetnoordbrabantsmuseum.nl/data/identifier/JH488> <http://www.cidoc-crm.org/cidoc-crm/P190_has_symbolic_content> "JH488" .
 <http://hetnoordbrabantsmuseum.nl/data/identifier/JH488> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <https://vangoghworldwide.org/data/concept/jh_number> .
 <http://hetnoordbrabantsmuseum.nl/data/identifier/JH488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E42_Identifier> .
@@ -884,7 +884,7 @@
 <_:part/@d430529e-df7d-44b2-984b-b7ea1c8314ae-0-62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object> .
 <_:part/@d430529e-df7d-44b2-984b-b7ea1c8314ae-0-62> <http://www.cidoc-crm.org/cidoc-crm/P106i_forms_part_of> <http://hetnoordbrabantsmuseum.nl/data/document/24359> .
 <https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F5107.tiff> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300215302> .
-<https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F5107.tiff> <http://purl.org/dc/terms/conformsTo> <http://iiif.to/api/image> .
+<https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F5107.tiff> <http://purl.org/dc/terms/conformsTo> <http://iiif.io/api/image> .
 <https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F5107.tiff> <http://www.cidoc-crm.org/cidoc-crm/P138_represents> <http://hetnoordbrabantsmuseum.nl/data/artwork/17710> .
 <https://data.spinque.com/iiif/2/vangoghworldwide%2Fnbm%2F5107.tiff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cidoc-crm.org/cidoc-crm/E36_Visual_Item> .
 <_:pages/@d430529e-df7d-44b2-984b-b7ea1c8314ae-0-1d> <http://www.cidoc-crm.org/cidoc-crm/P2_has_type> <http://vocab.getty.edu/aat/300435440> .
